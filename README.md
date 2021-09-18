@@ -16,6 +16,6 @@ Executar o projeto:
 >ng g component nomedomodulo/nomedocomponente
 
 ## Entendendo o código
-`app.module.ts`: É necessário fazer a importação de todos os módulos
-`index.ts`: O código faz com que não seja preciso passar o nome da classe na importação dos módulos no arquivo `app.module.ts` 
+`app.module.ts`: É necessário fazer a importação de todos os módulos <br>
+`index.ts`: O código faz com que não seja preciso passar o nome da classe na importação dos módulos no arquivo `app.module.ts` <br>
 
