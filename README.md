@@ -6,9 +6,6 @@ Criar o projeto:
 Entrar no projeto:
 >cd calculadora
 
-Executar o projeto:
->ng serve
-
 ## Após clonar o projeto, digite no terminal
 NPM:
 >npm install
@@ -18,6 +15,9 @@ Instalar o Bootstrap
 
 Executar um teste:
 >ng test
+
+Executar o projeto:
+>ng serve
 
 ## Como criou um módulo?
 >ng g module calculadora
