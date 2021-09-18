@@ -21,6 +21,9 @@ Executar um teste:
 Executar o projeto:
 >ng serve
 
+Abra o projeto no navegador:
+>http://localhost:4200/
+
 ## Como criou um módulo?
 >ng g module calculadora
 
