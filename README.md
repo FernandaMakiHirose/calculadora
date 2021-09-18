@@ -13,8 +13,11 @@ Executar o projeto:
 NPM:
 >npm install
 
->Instalar o Bootstrap
+Instalar o Bootstrap
 >npm install --save bootstrap@3
+
+Executar um teste:
+>ng test
 
 ## Como criou um módulo?
 >ng g module nomedomodulo
