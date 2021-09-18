@@ -20,10 +20,10 @@ Executar um teste:
 >ng test
 
 ## Como criou um módulo?
->ng g module nomedomodulo
+>ng g module calculadora
 
 ## Como criou um componente?
->ng g component nomedomodulo/nomedocomponente
+>ng g component calculadora/calculadora
 
 ## Como criou um serviço?
 >ng g service calculadora/services/calculadora
