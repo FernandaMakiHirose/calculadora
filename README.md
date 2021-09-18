@@ -42,5 +42,5 @@ Abra o projeto no navegador:
 `app.module.ts`: É necessário fazer a importação de todos os módulos <br>
 `calculadora.module.ts`: Exportação dos componentes com o "exports" e tem o "providers" que tem os serviços injetados em outros componentes. <br>
 `services`: Os serviços apresentam o @Injectable(), onde é possível fazer a injeção de dependência <br>
-`index.ts`: O código faz com que não seja preciso passar o nome da classe na importação dos módulos no arquivo `app.module.ts` <br>
+`index.ts`: O código faz com que não seja preciso passar o nome da classe na importação dos módulos <br>
 
